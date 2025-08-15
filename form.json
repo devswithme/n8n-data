@@ -1,0 +1,13 @@
+[
+   {
+      "fieldLabel":"Nomor telepon",
+      "placeholder":"+62",
+      "requiredField":true
+   },
+   {
+      "fieldLabel":"Email",
+      "fieldType":"email",
+     "placeholder":"me@gmail.com",
+      "requiredField":true
+   }
+]
